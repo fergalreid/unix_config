@@ -1,4 +1,4 @@
-# Better Rainbow Parentheses
+# Better Rainbow Parentheses https://github.com/kien/rainbow_parentheses.vim
 
 ### Options:
 
